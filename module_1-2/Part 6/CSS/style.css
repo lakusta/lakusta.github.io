@@ -1,0 +1,34 @@
+[href="http://google.com"]{
+  color:black;
+  text-decoration: line-through;
+}
+
+[type="text"]{
+color: red;
+}
+
+.menu{
+  font-size: 30px;
+  color:green;
+  background: black;
+}
+
+.active{
+  text-decoration: underline;
+}
+
+.menu_item{
+  font-weight: bold;
+}
+
+#box{
+text-decoration: underline;
+}
+
+p{
+  color: red;
+}
+
+div p{
+  color: green;
+}

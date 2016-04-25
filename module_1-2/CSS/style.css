@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+  background-color: lightgrey;
+}
+
+.allpage{
+width: 500px;
+background-color: white;
+margin: 5px auto 40px;
+padding: 20px;
+font-family: Arial;
+font-size: 18px;
+line-height: 20px;
+}
+
+h1{
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 20px;
+  }
+
+.header{
+  text-align: center;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.image{
+   width: 400px;
+}
+
+.part{
+  border-top: 1px solid grey;
+  padding: 20px;
+}
+
+ul{
+  padding-left: 20px;
+}
